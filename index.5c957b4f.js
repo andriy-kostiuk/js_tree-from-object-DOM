@@ -1,0 +1,2 @@
+!function e(t,n){if(0!==Object.keys(n).length){var r=document.createElement("ul");for(var a in n){var c=document.createElement("li");c.textContent=a,r.insertAdjacentElement("beforeend",c),"object"==typeof n[a]&&e(c,n[a])}t.insertAdjacentElement("beforeend",r)}}(document.querySelector("#tree"),{Drink:{Wine:{},Schnaps:{}},Fruit:{Red:{Cherry:{},Strawberry:{}},Yellow:{Banana:{},Pineapple:{}}}});
+//# sourceMappingURL=index.5c957b4f.js.map
